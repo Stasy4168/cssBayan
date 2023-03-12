@@ -3,13 +3,19 @@
 <html lang="en">
 <head>
 <title>CSS Bayan</title>
+<style>
+body {
+  background-color: pink;
+}
+</style>
+
 </head>
 <body>
 <p>Error on line 144</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Kids after coding Hello world</p>
+<p>My code is working</p>
+<p>Sitting there and trying to understand someone else code</p>
+<p>99 little bugs in the code</p>
 </body>
 
 </html>
